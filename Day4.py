@@ -13,3 +13,6 @@ print(thiscombo)
 thispair = ["slippers", "teddybear", "mouses", "systems"];
 thispair.remove("mouses")
 print(thispair)
+thisdisplay =['buds', 'bluetooth', 'headset'];
+thisdisplay[2] ='earphones'
+print(thisdisplay)
