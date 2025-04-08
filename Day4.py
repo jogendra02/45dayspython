@@ -1,5 +1,5 @@
 thislist =['apple', 'mango', 'guava', 'watermelon'];
-print(thislist);
+print(len (thislist));
 thismob = ['vivo', 'realme' 'oppo', 'iphone'];
 print(thismob)
 thismodel = ['activa', 'pleasure', 'tvs jupitor'];
