@@ -1,5 +1,6 @@
-n = 1
-for i in range(1, n + 1):
-    for j in range(1, i + 5):
-        print('*', end=' ')
+rows = int(input("Enter number of rows: 5"))
+
+for i in range(rows):
+    for j in range(i+1):
+        print(j+1, end=" ")
     print()
