@@ -1,3 +1,3 @@
 def name_fruit():
-    print("Write all fruits here")
+    print("apple")
 name_fruit()
