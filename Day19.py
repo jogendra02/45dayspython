@@ -2,6 +2,7 @@
 
 
 def add ():
-    return "this is function "
+    a=100
+    print(a)
 
-print(add())
+add()
