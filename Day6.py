@@ -1,4 +1,4 @@
-thistuple =('apple', 'mango', 'banana', 'cherry', 'papaya');
+thistuple =('apple', 'mango', 'banana', 'cherry', 'papaya', 'orange');
 print(thistuple)
 thistuple =('tiger', 'elephant', 'zibra', 'kangarao', 'rabbit');
 print(thistuple[2])
